@@ -18,5 +18,6 @@ function parseUrlParam($query){
     }
     return $params;
 }
-
+test
+test
 getUrlParam('p', 'http://yekai.net/?p=491')
